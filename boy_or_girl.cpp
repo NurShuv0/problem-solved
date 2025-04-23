@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    string str;
+    str str;
     cin>>str;
     set<char>nur;
     for(int i=0;i<str.size();i++)

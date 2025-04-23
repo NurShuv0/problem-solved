@@ -4,7 +4,7 @@ int main()
 {
     int n,count=0,cnt=0;
     cin>>n;
-    string nur;
+    str nur;
     cin>>nur;
     for(int i=0;i<nur.size();i++)
     {

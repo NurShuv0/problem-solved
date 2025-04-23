@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-    string str;
+    str str;
     cin >> str;
     if (!str.empty())
     {

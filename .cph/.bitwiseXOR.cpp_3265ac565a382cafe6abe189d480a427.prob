@@ -1,0 +1,1 @@
+{"name":"Local: bitwiseXOR","url":"e:\\My_code\\C++\\Codeforces_solves\\bitwiseXOR.cpp","tests":[{"id":1745361791146,"input":"5\n4\n1\n12\n2046\n194723326","output":"3 3 1\n-1\n2 4 6\n69 420 666\n12345678 87654321 100000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My_code\\C++\\Codeforces_solves\\bitwiseXOR.cpp","group":"local","local":true}

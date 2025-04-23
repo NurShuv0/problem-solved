@@ -13,7 +13,7 @@ int main() {
     cin >> t;
     while(t--)
     {
-        string str;
+        str str;
         cin >> str;
         int zero = 0;
         bool flag = false;

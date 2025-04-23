@@ -15,7 +15,7 @@ using namespace std;
 int main()
 {
     speed;
-    string swt;
+    str swt;
     cin >> swt;
     for(int i = 0; i < swt.size(); i++)
     {

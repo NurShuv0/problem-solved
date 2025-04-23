@@ -13,7 +13,7 @@ int main()
     speed;
     int a,b,c,d,result = 0;
     cin >> a >> b >> c >> d;
-    string str;
+    str str;
     cin >> str;
     for(int i = 0; i < str.size(); i++)
     {

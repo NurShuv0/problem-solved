@@ -1,0 +1,1 @@
+{"name":"Local: T-primes","url":"e:\\My_code\\C++\\Codeforces_solves\\T-primes.cpp","tests":[{"id":1745168183623,"input":"3\n4 5 6","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My_code\\C++\\Codeforces_solves\\T-primes.cpp","group":"local","local":true}

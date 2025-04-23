@@ -1,0 +1,1 @@
+{"name":"Local: p","url":"e:\\My_code\\C++\\Codeforces_solves\\p.cpp","tests":[{"id":1745247210944,"input":"6\n3\n000\n3\n111\n3\n011\n3\n100\n5\n10101\n19\n1101010010011011100","output":"3\n4\n4\n4\n8\n29"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My_code\\C++\\Codeforces_solves\\p.cpp","group":"local","local":true}

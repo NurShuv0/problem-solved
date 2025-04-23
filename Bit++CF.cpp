@@ -6,7 +6,7 @@ int main()
 
     int n,x=0;
     cin>>n;
-    string s;
+    str s;
     if(n>=1 && n<=150)
     {
          while(n--)

@@ -17,8 +17,8 @@ int main()
     {
         char c;
         cin >> c;
-        string str = "codeforces";
-        if (str.find(c) != string::npos)
+        str str = "codeforces";
+        if (str.find(c) != str::npos)
         {
             cout << "YES" <<sp;
         }

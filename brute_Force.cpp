@@ -13,7 +13,7 @@ int main()
     cin >> t;
     while(t--)
     {
-        string str;
+        str str;
         cin >> str;
         for(int i = 0; i < str.size(); i++)
         {
