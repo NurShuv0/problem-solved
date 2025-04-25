@@ -1,11 +1,4 @@
-for (int i = 0; i < str.size(); i++)
+for(auto& c: v)
         // {
-        //     if (str[i] == maxChar && str[i] != str[i + 1])
-        //     {
-        //         index = i;
-        //     }
-        //     if(str[i] != str[i + 1])
-        //     {
-        //         flag = false;
-        //     }
+        //     cout << c << sp;
         // }

@@ -5,9 +5,9 @@ int main ()
 
     int x;
     int a;
-    cout<<"Enter your index number : "<<endl;
+    cout<<"Enter your index number : "<<nl;
     cin>>x;
-    cout<<"Enter your number :"<<endl;
+    cout<<"Enter your number :"<<nl;
     int c;
 
     cin>>c;
