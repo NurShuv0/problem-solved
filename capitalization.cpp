@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-
-    str str;
+    string str;
     cin >> str;
     if (!str.empty())
     {
