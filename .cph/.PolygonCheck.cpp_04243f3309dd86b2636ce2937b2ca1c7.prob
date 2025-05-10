@@ -1,0 +1,1 @@
+{"name":"Local: PolygonCheck","url":"e:\\My_code\\C++\\Codeforces_solves\\PolygonCheck.cpp","tests":[{"id":1746788392643,"input":"3\n30\n60\n90","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My_code\\C++\\Codeforces_solves\\PolygonCheck.cpp","group":"local","local":true}
